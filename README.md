@@ -1,2 +1,2 @@
 Web sitesi deneme
-ituverse.github.io
+https://ituverse.github.io/
